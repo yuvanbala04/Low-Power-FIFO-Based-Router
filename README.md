@@ -12,6 +12,7 @@ This project implements a Low-Power FIFO-Based Router using Verilog HDL. The rou
 
 ## Tools Used
 - Verilog HDL
+- SystemVerilog
 - Xilinx Vivado / ModelSim
 - GitHub
 
